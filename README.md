@@ -1,6 +1,3 @@
-Ecco il codice completo pronto da copiare e incollare nel tuo `README.md`:
-
-markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:1a1a2e&height=180&section=header&text=whoami&fontSize=42&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38" />
