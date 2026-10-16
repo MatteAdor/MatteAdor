@@ -96,4 +96,3 @@ mindset:     understand how it works → understand how it breaks → understand
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:1a1a2e&height=100&section=footer" />
-```
