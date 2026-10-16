@@ -1,3 +1,6 @@
+Ecco il codice completo pronto da copiare e incollare nel tuo `README.md`:
+
+```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:1a1a2e&height=180&section=header&text=whoami&fontSize=42&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38" />
@@ -83,13 +86,14 @@ mindset:     understand how it works → understand how it breaks → understand
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=DarkMatte09&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=A78BFA&text_color=9ca3af&ring_color=7c3aed" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DarkMatte09&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=9ca3af&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatteAdor&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=A78BFA&text_color=9ca3af&ring_color=7c3aed" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteAdor&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=9ca3af&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMatte09&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=9ca3af&dates=6b7280&currStreakNum=c4b5fd&sideNums=c4b5fd" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatteAdor&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=9ca3af&dates=6b7280&currStreakNum=c4b5fd&sideNums=c4b5fd" />
 
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:1a1a2e&height=100&section=footer" />
+```
